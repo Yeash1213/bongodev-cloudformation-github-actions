@@ -1,0 +1,11 @@
+# Don't commit credentials, temporary files, or private keys
+.env
+.env.*
+*.pem
+*.key
+.aws/
+.DS_Store
+__pycache__/
+
+# Personal notes, keep local only
+GUIDE.md
