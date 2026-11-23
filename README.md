@@ -234,7 +234,6 @@ The running instance `i-00d9401d98a79bb9f` now has `Course = bongoDev-DevOps-Hom
 │   ├── deployment-policy-lab.json         deploy role permissions
 │   ├── trust-policy-new-repos-2026.json   trust policy with numeric IDs
 │   └── trust-policy-legacy-repos.json     trust policy for older repos
-├── docs/student-submission-checklist.md
 └── screenshots/                   evidence used above
 ```
 
